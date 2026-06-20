@@ -54,7 +54,7 @@ The automated Stata files execute a multi-stage cleaning routine to prevent esti
 
 The core script (`final_regression.do`) fits an ordinary least squares (OLS) cross-sectional specification using FY2024 data to isolate structural impacts on firm returns:
 
-$$\overline{\text{ROA}} = \beta_0 + \beta_1 \log(\text{Assets}) + \beta_2 \text{Leverage} + \beta_3 \text{Capex Ratio} + \varepsilon$$
+$$\overline{\mathrm{ROA}} = \beta_0 + \beta_1 \log(\text{Assets}) + \beta_2 \text{Leverage} + \beta_3 \text{Capex Ratio} + \varepsilon$$
 
 ### Code Execution Insights
 
