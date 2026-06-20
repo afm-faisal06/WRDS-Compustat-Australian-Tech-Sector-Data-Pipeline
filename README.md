@@ -9,7 +9,7 @@ For full contextual details regarding the methodology, please refer to the compi
 
 ## Repository Structure
 ```text
-├── Stata files/                        # Core Stata analytics engine
+├── Stata files/                        
 │   ├── final_Firm_analysis1.do         # Tracks firm-specific stock performance using security monthly data; computes and plots yearly closing stock price trends and average yearly trading volumes for NXT and TLS
 │   ├── final_Firm_analysis2.do         # Computes comprehensive firm-level accounting ratios (Liquidity, Operating Cashflow, Debt-to-Equity, Asset Turnover, Net Profit Margin, ROA, and ROE) comparing NXT and TLS
 │   ├── final_descriptive.do            # Calculates key metric trends (revenue, assets, ROA, leverage), aggregates macro industry metrics, and handles focus company comparative trend analysis (NXT vs. TLS vs. Industry)
