@@ -68,7 +68,6 @@ $$\text{Estimated ROA} = \beta_0 + \beta_1 \log(\text{Assets}) + \beta_2 \text{L
 * **Data Access:** Wharton Research Data Services (WRDS) active login credentials for Compustat Global.
 
 
-
 ## Authors
 
 Group 6
@@ -79,6 +78,8 @@ Group 6
 * Abu Fatah Mohammed Faisal
 * Cong Tuan Nguyen
 
+
 ECOM5002 - Business Quantitative Techniques
+
 Curtin University
 
